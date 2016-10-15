@@ -1,0 +1,631 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8862aed7-ddd8-4d6b-bf9b-facc4fb6802c" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/backgrounds/background.jpg" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/css/bootstrap.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/css/style.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/css/theme-light.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/novecento/stylesheet.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/novecento/synthview_-_novecento_sans_wide_bold-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/novecento/synthview_-_novecento_sans_wide_bold-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/novecento/synthview_-_novecento_sans_wide_bold-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/novecento/synthview_-_novecento_sans_wide_bold-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/novecento/synthview_-_novecento_sans_wide_demibold-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/novecento/synthview_-_novecento_sans_wide_demibold-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/novecento/synthview_-_novecento_sans_wide_demibold-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/novecento/synthview_-_novecento_sans_wide_demibold-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/icons/font-awesome/font-awesome.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/icons/font-awesome/font-awesome.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/icons/font-awesome/fonts/FontAwesome.otf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/icons/font-awesome/fonts/fontawesome-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/icons/font-awesome/fonts/fontawesome-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/icons/font-awesome/fonts/fontawesome-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/icons/font-awesome/fonts/fontawesome-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/icons/glyphicons/glyphicons.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/icons/glyphicons/glyphicons.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/icons/glyphicons/glyphicons.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/icons/glyphicons/glyphicons.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/icons/glyphicons/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/icons/glyphicons/style.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/icons/social/social.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/icons/social/social@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/icons/social/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/ibm.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/ipad.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/ipad@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/iphone.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/iphone@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/macbook.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/macbook@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/morgan-stanley.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/preload.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/preload@2x.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/tm4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/uds.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/wordcloud.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/js/hydrogen.parallax.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/js/hydrogen.plugins.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/js/hydrogen.scripts.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/js/hydrogen.scripts.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/js/hydrogen.setup.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/js/hydrogen.setup.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/js/jquery-1.11.1.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/less/bootstrap/alerts.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/less/bootstrap/badges.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/less/bootstrap/bootstrap.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/less/bootstrap/bootstrap.min.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/less/bootstrap/buttons.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/less/bootstrap/close.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/less/bootstrap/code.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/less/bootstrap/component-animations.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/less/bootstrap/dropdowns.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/less/bootstrap/forms.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/less/bootstrap/grid.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/less/bootstrap/labels.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/less/bootstrap/mixins.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/less/bootstrap/navs.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/less/bootstrap/normalize.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/less/bootstrap/pager.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/less/bootstrap/pagination.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/less/bootstrap/panels.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/less/bootstrap/progress-bars.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/less/bootstrap/responsive-utilities.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/less/bootstrap/scaffolding.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/less/bootstrap/tables.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/less/bootstrap/tooltip.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/less/bootstrap/type.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/less/bootstrap/utilities.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/less/bootstrap/variables.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/less/core/animations.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/less/core/blog.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/less/core/bootstrap.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/less/core/layout.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/less/core/media-queries.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/less/core/mejs.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/less/core/mixins.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/less/core/modules.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/less/core/project.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/less/core/section.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/less/core/style.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/less/core/style.min.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/less/core/typography.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/less/core/variables.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/less/themes/mixins.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/less/themes/theme-dark.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/less/themes/theme-light.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/form/jquery.form.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/form/jquery.form.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/form/jquery.validate.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/form/jquery.validate.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/gmap/gmap3.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/gmap/gmap3.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/isotope/jquery.isotope.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/isotope/jquery.isotope.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/mediaelement/DO NOT CHANGE THESE FILES. USE -src- FOLDER.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/mediaelement/background.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/mediaelement/bigplay.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/mediaelement/bigplay.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/mediaelement/controls-ted.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/mediaelement/controls-wmp-bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/mediaelement/controls-wmp.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/mediaelement/controls.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/mediaelement/controls.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/mediaelement/flashmediaelement-cdn.swf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/mediaelement/flashmediaelement.swf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/mediaelement/jquery.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/mediaelement/loading.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/mediaelement/mediaelement-and-player.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/mediaelement/mediaelement-and-player.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/mediaelement/mediaelement.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/mediaelement/mediaelement.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/mediaelement/mediaelementplayer.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/mediaelement/mediaelementplayer.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/mediaelement/mediaelementplayer.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/mediaelement/mediaelementplayer.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/mediaelement/mejs-skins.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/mediaelement/silverlightmediaelement.xap" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/mfp/jquery.mfp-0.9.9.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/mfp/jquery.mfp-0.9.9.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/mfp/jquery.mfp.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/owlcarousel/AjaxLoader.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/owlcarousel/grabbing.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/owlcarousel/owl.carousel.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/owlcarousel/owl.carousel.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/owlcarousel/owl.carousel.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/owlcarousel/owl.carousel.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/owlcarousel/owl.theme.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/owlcarousel/owl.transitions.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/royalslider/blank.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/royalslider/grab.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/royalslider/grabbing.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/royalslider/jquery.royalslider.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/royalslider/royalslider.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/royalslider/royalslider.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/portfolio/1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/portfolio/github.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/portfolio/primetrader.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/portfolio/timetracker.png" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+    </list>
+    <ignored path="marc-andre-beaudry-cv.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="marc-andre-beaudry-cv" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="mixer.png" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/images/icons/mixer.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/index-normal.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/javascript/custom.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="marc-andre-beaudry-cv" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="marc-andre-beaudry-cv" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="marc-andre-beaudry-cv" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\SRC\marc-andre-beaudry-cv\images\backgrounds" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8862aed7-ddd8-4d6b-bf9b-facc4fb6802c" name="Default" comment="" />
+      <created>1476491793869</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1476491793869</updated>
+      <workItem from="1476491795056" duration="6366000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="6366000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13229166" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980973" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="274">
+          <caret line="354" column="63" selection-start-line="354" selection-start-column="63" selection-end-line="354" selection-end-column="63" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript/custom.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="205" column="63" selection-start-line="205" selection-start-column="63" selection-end-line="205" selection-end-column="63" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/backgrounds/background.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/icons/wine.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/icons/window-system.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/icons/wrench.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/icons/wrench-screwdriver.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/icons/window.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/icons/address-book.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/icons/address-book-alt.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/icons/bag.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/icons/beer.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/icons/bell.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/icons/bitcoin.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/icons/user-male-alt.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/icons/book.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/icons/book-bookmark.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/icons/box-full.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/icons/box-in.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/icons/box-out.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/icons/box.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/icons/brick.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/icons/brick-alt.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/icons/bubble.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/icons/bubbles.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/icons/bubbles-alt.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/icons/building.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/icons/bullhorn.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/icons/calculator.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/icons/calendar.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/icons/calendar-clock.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/icons/carton.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/icons/cat.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/icons/clock.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/icons/cloud.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/icons/cloud-down.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/icons/cloud-up.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/icons/cog.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/icons/map.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/icons/layers.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/icons/switch-off.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/icons/switch-on.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/icons/drop.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/icons/envelope.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/icons/envelope-letter.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/icons/dashboard.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/icons/dashboard-alt.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/icons/database.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/icons/compass.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/icons/cogs.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/icons/mixer.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+  </component>
+</project>
