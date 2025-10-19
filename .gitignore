@@ -1,0 +1,60 @@
+# -----------------------------------------------------
+# Node / Frontend build artifacts
+# -----------------------------------------------------
+node_modules/
+dist/
+build/
+.cache/
+.next/
+out/
+.npm/
+.yarn/
+.pnpm-store/
+package-lock.json
+yarn-error.log
+pnpm-lock.yaml
+
+# Optional: remove if you want to version your local .env
+.env
+.env.*.local
+*.env.local
+
+# -----------------------------------------------------
+# OS / System files
+# -----------------------------------------------------
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Icon?
+Desktop.ini
+$RECYCLE.BIN/
+*.swp
+*.swo
+*.tmp
+*.bak
+*.log
+
+# -----------------------------------------------------
+# Editors
+# -----------------------------------------------------
+# VS Code
+.vscode/
+.history/
+*.code-workspace
+
+# IntelliJ IDEA / WebStorm / PhpStorm / Rider
+.idea/
+*.iml
+*.iws
+out/
+# IntelliJ build folders and caches
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/**/usage.statistics.xml
+.idea/**/dictionaries
+.idea/**/shelf/
+.idea/**/httpRequests/
+.idea/**/dataSources/
+.idea/**/dataSources.local.xml
+.idea/**/dataSources.xml
+.idea/**/sql**

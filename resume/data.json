@@ -1,0 +1,79 @@
+{
+  "name": "Marc-Andre Beaudry",
+  "headline": "Principal Software Developer at Upgrade Inc.",
+  "location": "Saint-Jean-Baptiste, QC, Canada",
+  "about": "Principal Software Developer at Upgrade, Inc., building and scaling backend systems for consumer financial products including Upgrade OneCard, Boost Cash, and Boost Money. Over 10 years of experience designing high-performance Java services and leading engineering initiatives across fintech and enterprise platforms. Passionate about clean architecture, developer mentorship, and building reliable systems that empower customers.",
+  "links": [
+    { "type": "LinkedIn", "url": "https://www.linkedin.com/in/marc-andre-beaudry/" },
+    { "type": "Email", "url": "mailto:marcandre.beaudry2@gmail.com" }
+  ],
+
+  "education": [
+    {
+      "school": "Université de Sherbrooke",
+      "program": "B.Eng. — Computer Engineering",
+      "period": "Sep 2010 – Dec 2014",
+      "notes": "GPA 4.19 / 4.30. Received Joseph-Armand Bombardier Scholarship (2013) and Medal of Merit (2014) for academic excellence and professionalism."
+    }
+  ],
+
+  "skills": [
+    {
+      "group": "Programming",
+      "items": ["Java", "C#", "JavaScript", "TypeScript", "Python"]
+    },
+    {
+      "group": "Databases",
+      "items": ["Postgres", "DB2", "Sybase", "MongoDB", "Stardog", "Elasticsearch"]
+    },
+    {
+      "group": "Frameworks / Technologies",
+      "items": ["Spring Boot", "GraphQL", "Redis", "Kafka"]
+    }
+  ],
+
+  "experience": [
+    {
+      "company": "Upgrade, Inc.",
+      "title": "Principal Software Developer",
+      "period": "Oct 2021 – Present",
+      "summary": "Leading backend development for Upgrade’s financial products, including Upgrade OneCard, Boost Cash, and Boost Money. Designing and maintaining scalable Java Spring Boot microservices powering customer accounts, credit transactions, and rewards systems. Collaborating closely with product and mobile teams to deliver secure, reliable APIs and integrations. Driving architecture improvements, code quality standards, and deployment automation across multiple backend services."
+    },
+    {
+      "company": "Morgan Stanley",
+      "title": "Vice President – Engineering Manager, Enterprise System Management",
+      "period": "Jan 2020 – Oct 2021",
+      "summary": "Managed a team of 12 full stack developers in Montreal and 5 in Bangalore across a dozen+ systems. Chapter lead for a 40+ engineer org; authored 50+ guideline articles and coached developers in Spring Boot & Angular best practices. Mentored 25+ developers and supervised agile squads delivering asset inventory, network lifecycle management, and firmwide monitoring systems. Led a 2-year migration of two large Flash-based applications (>1M LOC) to Angular Material."
+    },
+    {
+      "company": "Morgan Stanley",
+      "title": "Engineering Manager, Enterprise System Management",
+      "period": "Mar 2017 – Jan 2020",
+      "summary": "Built and led a 10-developer full stack team; set coding standards for Spring Boot + Angular. Delivered infrastructure components, including: a graph data platform (~1B triples) for analytics; an Elasticsearch typeahead search over 50M documents; and data marketplace APIs used by hundreds of internal systems for monitoring, regulatory reporting, billing, and incident management. Built Angular Material apps used daily by 20k+ users; engineered network access control with Cisco ISE for >1M devices."
+    },
+    {
+      "company": "AppDirect",
+      "title": "Software Developer – Billing and Payment Instruments",
+      "period": "Aug 2016 – Mar 2017",
+      "summary": "Delivered a new payment gateway integration in Spring Boot; designed payment strategies for complex telco billing; built an Angular + Spring Boot test automation system for gateway integrations."
+    },
+    {
+      "company": "Morgan Stanley",
+      "title": "Software Developer – Enterprise Infrastructure",
+      "period": "Feb 2015 – Aug 2016",
+      "summary": "Built trading infringement visualization tools (KDB, DB2, Java Spring, C# WPF). Implemented configuration management graph analytics on MarkLogic (RDF). Designed microservices and API gateway with Spring + Zookeeper; blue-green deployments; D3.js data exploration widgets."
+    },
+    {
+      "company": "TM4 Inc.",
+      "title": "Software Developer – Intern, Software Engineering",
+      "period": "Fall 2012 & Fall 2013",
+      "summary": "Designed a C# WPF software/hardware system for electric motor characterization, cutting the process from two weeks to a few hours; integrated three measurement devices via native C++ libraries."
+    },
+    {
+      "company": "IBM Canada",
+      "title": "Software Developer – Intern, Automation Department",
+      "period": "Summer 2011 & Spring 2012",
+      "summary": "Created a Java app for versioning electrical/mechanical drawings, reducing documentation time by ~80% and improving permissioning and visibility."
+    }
+  ]
+}
