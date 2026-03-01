@@ -1,0 +1,304 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<title>Marc-Andre Beaudry — Resume</title>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+
+  :root {
+    --accent: #1d4ed8;
+    --muted: #475569;
+    --border: #cbd5e1;
+    --text: #0f172a;
+    --bg: #ffffff;
+  }
+
+  body {
+    font-family: 'Segoe UI', system-ui, Arial, sans-serif;
+    font-size: 9.5pt;
+    line-height: 1.4;
+    color: var(--text);
+    background: var(--bg);
+    padding: 0;
+    margin: 0;
+  }
+
+  @page {
+    size: letter;
+    margin: 12mm 14mm 12mm 14mm;
+  }
+
+  /* Header */
+  .header {
+    display: flex;
+    align-items: flex-start;
+    gap: 18px;
+    margin-bottom: 8px;
+    border-bottom: 2px solid var(--accent);
+    padding-bottom: 8px;
+  }
+
+  .header-text h1 {
+    font-size: 19pt;
+    font-weight: 700;
+    color: var(--accent);
+    letter-spacing: -0.3px;
+    line-height: 1.1;
+  }
+
+  .header-text .headline {
+    font-size: 10pt;
+    color: var(--muted);
+    margin-top: 2px;
+  }
+
+  .header-contact {
+    margin-top: 4px;
+    font-size: 8.5pt;
+    color: var(--muted);
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2px 14px;
+  }
+
+  .header-contact a {
+    color: var(--accent);
+    text-decoration: none;
+  }
+
+  /* Section headings */
+  h2 {
+    font-size: 9.5pt;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.8px;
+    color: var(--accent);
+    border-bottom: 1px solid var(--border);
+    padding-bottom: 2px;
+    margin: 9px 0 5px;
+  }
+
+  /* About */
+  .about p {
+    font-size: 9pt;
+    color: #334155;
+    line-height: 1.4;
+  }
+
+  /* Experience */
+  .job {
+    margin-bottom: 6px;
+    page-break-inside: avoid;
+  }
+
+  .job-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+  }
+
+  .job-title {
+    font-weight: 700;
+    font-size: 9.5pt;
+  }
+
+  .job-company {
+    font-weight: 600;
+    color: var(--accent);
+    font-size: 9.5pt;
+  }
+
+  .job-period {
+    font-size: 8.5pt;
+    color: var(--muted);
+    white-space: nowrap;
+    margin-left: 8px;
+  }
+
+  .job-summary {
+    font-size: 9pt;
+    color: #334155;
+    margin-top: 1px;
+    line-height: 1.4;
+  }
+
+  /* Education */
+  .edu-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    margin-bottom: 3px;
+  }
+
+  .edu-school { font-weight: 700; font-size: 9.5pt; }
+  .edu-program { font-size: 9pt; color: var(--muted); }
+  .edu-period { font-size: 8.5pt; color: var(--muted); white-space: nowrap; }
+  .edu-notes { font-size: 8.5pt; color: #475569; margin-top: 1px; }
+
+  /* Skills */
+  .skills-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 4px 16px;
+  }
+
+  .skill-group-label {
+    font-weight: 700;
+    font-size: 8.5pt;
+    color: var(--muted);
+  }
+
+  .skill-items {
+    font-size: 8.5pt;
+  }
+
+  /* Print safety */
+  section { page-break-inside: avoid; }
+</style>
+</head>
+<body>
+
+<!-- HEADER -->
+<div class="header">
+  <div class="header-text">
+    <h1>Marc-Andre Beaudry</h1>
+    <div class="headline">Principal Software Developer at Upgrade Inc.</div>
+    <div class="header-contact">
+      <a href="mailto:marcandre.beaudry2@gmail.com">marcandre.beaudry2@gmail.com</a>
+      <a href="https://marc-andre-beaudry.com">marc-andre-beaudry.com</a>
+      <a href="https://www.linkedin.com/in/marc-andre-beaudry/">linkedin.com/in/marc-andre-beaudry</a>
+      <span>Saint-Jean-Baptiste, QC, Canada</span>
+    </div>
+  </div>
+</div>
+
+<!-- ABOUT -->
+<section class="about">
+  <h2>About</h2>
+  <p>Principal Software Developer at Upgrade, Inc., building and scaling backend systems for consumer financial products including Upgrade OneCard, Boost Cash, and Boost Money. Over 10 years of experience designing high-performance Java services and leading engineering initiatives across fintech and enterprise platforms. Passionate about clean architecture, developer mentorship, and building reliable systems that empower customers.</p>
+</section>
+
+<!-- EXPERIENCE -->
+<section>
+  <h2>Experience</h2>
+
+  <div class="job">
+    <div class="job-header">
+      <div>
+        <span class="job-title">Principal Software Developer</span>
+        &nbsp;·&nbsp;
+        <span class="job-company">Upgrade, Inc.</span>
+      </div>
+      <span class="job-period">Oct 2021 – Present</span>
+    </div>
+    <div class="job-summary">Leading backend development for Upgrade's financial products, including Upgrade OneCard, Boost Cash, and Boost Money. Designing and maintaining scalable Java Spring Boot microservices powering customer accounts, credit transactions, and rewards systems. Collaborating closely with product and mobile teams to deliver secure, reliable APIs and integrations. Driving architecture improvements, code quality standards, and deployment automation across multiple backend services.</div>
+  </div>
+
+  <div class="job">
+    <div class="job-header">
+      <div>
+        <span class="job-title">Vice President – Engineering Manager, Enterprise System Management</span>
+        &nbsp;·&nbsp;
+        <span class="job-company">Morgan Stanley</span>
+      </div>
+      <span class="job-period">Jan 2020 – Oct 2021</span>
+    </div>
+    <div class="job-summary">Managed a team of 12 full stack developers in Montreal and 5 in Bangalore across a dozen+ systems. Chapter lead for a 40+ engineer org; authored 50+ guideline articles and coached developers in Spring Boot &amp; Angular best practices. Mentored 25+ developers and supervised agile squads delivering asset inventory, network lifecycle management, and firmwide monitoring systems. Led a 2-year migration of two large Flash-based applications (&gt;1M LOC) to Angular Material.</div>
+  </div>
+
+  <div class="job">
+    <div class="job-header">
+      <div>
+        <span class="job-title">Engineering Manager, Enterprise System Management</span>
+        &nbsp;·&nbsp;
+        <span class="job-company">Morgan Stanley</span>
+      </div>
+      <span class="job-period">Mar 2017 – Jan 2020</span>
+    </div>
+    <div class="job-summary">Built and led a 10-developer full stack team; set coding standards for Spring Boot + Angular. Delivered infrastructure components, including: a graph data platform (~1B triples) for analytics; an Elasticsearch typeahead search over 50M documents; and data marketplace APIs used by hundreds of internal systems for monitoring, regulatory reporting, billing, and incident management. Built Angular Material apps used daily by 20k+ users; engineered network access control with Cisco ISE for &gt;1M devices.</div>
+  </div>
+
+  <div class="job">
+    <div class="job-header">
+      <div>
+        <span class="job-title">Software Developer – Billing and Payment Instruments</span>
+        &nbsp;·&nbsp;
+        <span class="job-company">AppDirect</span>
+      </div>
+      <span class="job-period">Aug 2016 – Mar 2017</span>
+    </div>
+    <div class="job-summary">Delivered a new payment gateway integration in Spring Boot; designed payment strategies for complex telco billing; built an Angular + Spring Boot test automation system for gateway integrations.</div>
+  </div>
+
+  <div class="job">
+    <div class="job-header">
+      <div>
+        <span class="job-title">Software Developer – Enterprise Infrastructure</span>
+        &nbsp;·&nbsp;
+        <span class="job-company">Morgan Stanley</span>
+      </div>
+      <span class="job-period">Feb 2015 – Aug 2016</span>
+    </div>
+    <div class="job-summary">Built trading infringement visualization tools (KDB, DB2, Java Spring, C# WPF). Implemented configuration management graph analytics on MarkLogic (RDF). Designed microservices and API gateway with Spring + Zookeeper; blue-green deployments; D3.js data exploration widgets.</div>
+  </div>
+
+  <div class="job">
+    <div class="job-header">
+      <div>
+        <span class="job-title">Software Developer – Intern, Software Engineering</span>
+        &nbsp;·&nbsp;
+        <span class="job-company">TM4 Inc.</span>
+      </div>
+      <span class="job-period">Fall 2012 &amp; Fall 2013</span>
+    </div>
+    <div class="job-summary">Designed a C# WPF software/hardware system for electric motor characterization, cutting the process from two weeks to a few hours; integrated three measurement devices via native C++ libraries.</div>
+  </div>
+
+  <div class="job">
+    <div class="job-header">
+      <div>
+        <span class="job-title">Software Developer – Intern, Automation Department</span>
+        &nbsp;·&nbsp;
+        <span class="job-company">IBM Canada</span>
+      </div>
+      <span class="job-period">Summer 2011 &amp; Spring 2012</span>
+    </div>
+    <div class="job-summary">Created a Java app for versioning electrical/mechanical drawings, reducing documentation time by ~80% and improving permissioning and visibility.</div>
+  </div>
+</section>
+
+<!-- EDUCATION -->
+<section>
+  <h2>Education</h2>
+  <div class="edu-item">
+    <div>
+      <div class="edu-school">Université de Sherbrooke</div>
+      <div class="edu-program">B.Eng. — Computer Engineering</div>
+      <div class="edu-notes">GPA 4.19 / 4.30 &nbsp;·&nbsp; Joseph-Armand Bombardier Scholarship (2013) &nbsp;·&nbsp; Medal of Merit (2014)</div>
+    </div>
+    <span class="edu-period">Sep 2010 – Dec 2014</span>
+  </div>
+</section>
+
+<!-- SKILLS -->
+<section>
+  <h2>Skills</h2>
+  <div class="skills-grid">
+    <div>
+      <div class="skill-group-label">Programming</div>
+      <div class="skill-items">Java, C#, JavaScript, TypeScript, Python</div>
+    </div>
+    <div>
+      <div class="skill-group-label">Databases</div>
+      <div class="skill-items">Postgres, DB2, Sybase, MongoDB, Stardog, Elasticsearch</div>
+    </div>
+    <div>
+      <div class="skill-group-label">Frameworks / Technologies</div>
+      <div class="skill-items">Spring Boot, GraphQL, Redis, Kafka</div>
+    </div>
+  </div>
+</section>
+
+</body>
+</html>
